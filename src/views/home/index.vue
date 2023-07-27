@@ -20,7 +20,7 @@
         </el-col>
         <el-col :span="6">
           <div class="out-border">
-            <div class="layout-title">点Star支持项目</div>
+            <div class="layout-title">点Star支持</div>
             <div class="color-main address-content">
               <a href="https://github.com/macrozheng/mall" target="_blank">mall项目</a>
             </div>
